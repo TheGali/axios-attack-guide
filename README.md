@@ -142,4 +142,4 @@ The compromised versions have been pulled from npm. If you installed axios after
 
 ## About this repo
 
-This is a rewrite of the original attack guide for clarity and safety. No executable scripts are included. Every detection command is listed in plain text so you can read it before running it.
+This is a rewrite of the original guide by [mikero1988](https://github.com/mikero1988/axios-attack-guide). Full credit to them for documenting the attack. I rewrote it out of an abundance of caution so that every detection command is inline and readable before you run it, with no executable scripts included.
